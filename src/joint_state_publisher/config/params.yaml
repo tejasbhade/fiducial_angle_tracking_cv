@@ -1,0 +1,4 @@
+joint_state_publisher:
+  ros__parameters:
+    tag_names: ["cabin", "boom", "arm", "bucket"]
+

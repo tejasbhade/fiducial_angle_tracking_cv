@@ -1,0 +1,6 @@
+aruco_detector_node:
+  ros__parameters:
+    display_detections: true
+    tag_ids: [9, 12, 20, 10]
+    tag_names: ["cabin", "boom", "arm", "bucket"]
+
